@@ -1,4 +1,4 @@
-# 머신러닝을 하루 만에 배우려고 하지 마라.
+# 머신러닝, 하루 만에 배우려고 하지 마라.
 
 ![](https://cdn-images-1.medium.com/max/880/1*erhS3Y1ZtN3bcJAYgaLC_g.gif)
 
