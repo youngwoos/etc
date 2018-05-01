@@ -13,13 +13,13 @@
 
 머신러닝, 딥러닝, AI를 둘러싼 전 영역의 분위기에도 이와 비슷한 문제가 있다. 광고, 블로그, 기사, 교육 과정이 도처에 넘쳐난다. 대부분 "코드 일곱 줄로 머신러닝 배우기", "열흘 만에 배우는 머신러닝" 같은 비슷한 제목을 달고 있다. 이런걸 접한 사람들은 Quora에 ["어떻게 하면 머신러닝을 한달 만에 배울수 있을까요?"](https://www.quora.com/How-should-I-plan-my-day-to-learn-machine-learning-in-30-days) 같은 질문을 올리게 된다.  짧게 답하자면 "한 달 안에 안된다. 누구도 못한다. 어떤 전문가도 그러지 못했다."
 
-<p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*U_mJ4Yq7pUctpFYwlx1u0g.jpeg" /><br>
+<p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*U_mJ4Yq7pUctpFYwlx1u0g.jpeg"/><br><i>많이 보던 상황인가? <a href="https://www.facebook.com/npcompleteteens/photos/a.165757437252172.1073741828.165182533976329/324222291405685/?type=3&theater">이 페이스북 페이지</a>에서 찾은 이미지다.</i></p>
 
-<i>많이 보던 상황인가? <a href="https://www.facebook.com/npcompleteteens/photos/a.165757437252172.1073741828.165182533976329/324222291405685/?type=3&theater">이 페이스북 페이지</a>에서 찾은 이미지다.</i></p>
+
 
 우리가 [1만 시간의 법칙](https://www.businessinsider.in/Malcolm-Gladwell-Explains-What-Everyone-Gets-Wrong-About-His-Famous-10000-Hour-Rule/articleshow/35964144.cms)을 잠시 잊었다 하더라도, 머신러닝을 코드 일곱 줄로 배울 수는 없다.
 
-왜냐고? 코드 일곱 줄로는 [bias-variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)를 어떻게 처리했는지, 생성된 모델의 accuracy가 무얼 의미하는지, [accuracy가 성능을 평가하는데 적절한 지표인지](https://stats.stackexchange.com/questions/34193/how-to-choose-an-error-metric-when-evaluating-a-classifier), 모델이 [과적합](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)되지는 않았는지, 데이터가 어떤 분포를 띄고 있고 따라서 [적합한 모델을 선택했는지](https://www.itl.nist.gov/div898/handbook/pmd/section4/pmd422.htm) 등을 알 수 없기 때문이다. 이 모든 것을 알고 있더라도, 이 밖에 고려해야 할 문제가 훨씬 더 많다.
+왜냐고? 코드 일곱 줄로는 [bias-variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)를 어떻게 처리했는지, 생성된 모델의 accuracy가 무얼 의미하는지, [accuracy가 성능을 평가하는데 적절한 지표인지](https://stats.stackexchange.com/questions/34193/how-to-choose-an-error-metric-when-evaluating-a-classifier), 모델이 [과적합](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)되지는 않았는지, 데이터가 어떤 분포를 띠고 있고 따라서 [적합한 모델을 선택했는지](https://www.itl.nist.gov/div898/handbook/pmd/section4/pmd422.htm) 등을 알 수 없기 때문이다. 이 모든 것을 알고 있더라도, 이 밖에 고려해야 할 문제가 훨씬 더 많다.
 
 모델을 해석할 수 없으면 그냥 sklearn으로 파라미터를 조정해서 성능을 좀 향상시킨 다음 기분 좋게 퇴근하면 된다. 하지만 이게 진짜로 머신러닝을 아는 건가?
 
