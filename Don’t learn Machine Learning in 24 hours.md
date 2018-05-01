@@ -1,8 +1,7 @@
-# 머신러닝을 하루 만에 배우려고 하지 마라.
+# Don’t learn Machine Learning in 24 hours
 
-![](https://cdn-images-1.medium.com/max/880/1*erhS3Y1ZtN3bcJAYgaLC_g.gif)
-
-Source- [https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5)
+<p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*erhS3Y1ZtN3bcJAYgaLC_g.gif" /></p>
+Source - [https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5)
 
 Recently, I came across a wonderful article by Peter Norvig??? - “Teach yourself programming in 10 years”.
 
@@ -14,6 +13,8 @@ Of course you could write a Hello World program in C++ in 24 hours, or a program
 
 I’ve found a similar situation in the current atmosphere surrounding Machine Learning, Deep Learning, and Artificial Intelligence as a whole. Feeding the hype, thousands of blogs, articles, and courses have popped up everywhere. Thousands of them have the same kind of headlines???“Machine Learning in 7 lines of code”, “Machine Learning in 10 days”, etc. This has, in turn led people on Quora to ask questions like [“How do I learn Machine Learning in 30 days?”](https://www.quora.com/How-should-I-plan-my-day-to-learn-machine-learning-in-30-days). The short answer is, “You can’t. No one can. And no expert (or even one comfortable with its ins and outs) did.” 
 
+<p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*U_mJ4Yq7pUctpFYwlx1u0g.jpeg" /></p>
+
 Looks familiar? Found this on a very funny Facebook?[page](https://www.facebook.com/npcompleteteens/photos/a.165757437252172.1073741828.165182533976329/324222291405685/?type=3&theater)
 
 Even if we were to forget the [10,000 hours rule](https://www.businessinsider.in/Malcolm-Gladwell-Explains-What-Everyone-Gets-Wrong-About-His-Famous-10000-Hour-Rule/articleshow/35964144.cms) for a second, you can’t do machine learning in 7 lines of code.
@@ -22,13 +23,11 @@ Why? Because those 7 lines of code do not explain how you did in the [bias-varia
 
 And since you couldn’t interpret your model, you tweak the parameters in sklearn, get a minimal improvement in accuracy, and go home happy. But did you really learn?
 
-
-![](https://cdn-images-1.medium.com/max/1600/1*jy7DT6-R_xXvZKvz-_-n7g.jpeg)
+<p align="center"><img src ="https://cdn-images-1.medium.com/max/1600/1*jy7DT6-R_xXvZKvz-_-n7g.jpeg" /></p>
 
 Source - [http://machinelearningjourney.blogspot.in/2012/03/machine-learning-and-memes.html](http://machinelearningjourney.blogspot.in/2012/03/machine-learning-and-memes.html)
 
-In short, don’t do it in 7 lines of code. Do it over 6 months, a year. You’ll know in the middle of that period whether it interests you. Forget the glamour for now, and really get into the depths of this amazing field of research. You should definitely read [this](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf). I
-found it to be the best introduction for a newbie in this field. You don’t need to know math or code to read it. But after reading this, you will realise the entire gamut of concepts you need to understand in order to be fluent with this field, to think in ML, so to speak.
+In short, don’t do it in 7 lines of code. Do it over 6 months, a year. You’ll know in the middle of that period whether it interests you. Forget the glamour for now, and really get into the depths of this amazing field of research. You should definitely read [this](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf). I found it to be the best introduction for a newbie in this field. You don’t need to know math or code to read it. But after reading this, you will realise the entire gamut of concepts you need to understand in order to be fluent with this field, to think in ML, so to speak.
 
 There are indeed fascinating blogs to follow on this subject. Here are some of my personal favourites:
 
@@ -46,12 +45,8 @@ Just don’t do it in 24 hours.
 
 [Here’s](http://norvig.com/21-days.html)the article by Peter Norvig, a must read from a stellar AI researcher of our age.
 
-![](https://cdn-images-1.medium.com/max/1600/1*aYFSCHBK6Nc1L1MGRrk1hw.jpeg)
+<p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*aYFSCHBK6Nc1L1MGRrk1hw.jpeg" /></p>
 
 Seriously, though. Why?not?
 
 Thanks to [Yu Zhou](https://medium.com/@yuzhoux?source=post_page).
-
--   [Machine
-    Learning](https://towardsdatascience.com/tagged/machine-learning?source=post)
-
