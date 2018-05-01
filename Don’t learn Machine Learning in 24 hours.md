@@ -2,8 +2,10 @@
 *원문 : [Don’t learn Machine Learning in 24 hours](https://towardsdatascience.com/dont-learn-machine-learning-in-24-hours-3ea3624f9881)*
 <p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*erhS3Y1ZtN3bcJAYgaLC_g.gif"/>
 <br>
-Source - [https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5)
+Source - <a href="https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5">https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5</a>
+   
 </p>
+
 
 최근 피터 노빅의  "10년 동안 프로그래밍 독학하라"는 멋진 글을 발견했다.
 
