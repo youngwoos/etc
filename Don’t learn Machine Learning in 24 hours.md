@@ -51,4 +51,4 @@ Medium도 공부하는데 도움이 많이 된다. 나는 [이 페이지](https:
 
 [Yu Zhou](https://medium.com/@yuzhoux?source=post_page)에게 감사를 전한다.
 
-*원문 : [Don’t learn Machine Learning in 24 hours](https://towardsdatascience.com/dont-learn-machine-learning-in-24-hours-3ea3624f9881)*
+>이 글은 Rwiddhi Chakraborty의 [Don’t learn Machine Learning in 24 hours](https://towardsdatascience.com/dont-learn-machine-learning-in-24-hours-3ea3624f9881)를 번역한 것입니다. 원문과 대조하여 보려면 [링크](https://github.com/youngwoos/etc/pull/4/files)를 클릭하세요.
