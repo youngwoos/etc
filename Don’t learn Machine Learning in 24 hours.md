@@ -1,7 +1,9 @@
 # 머신러닝 하루 만에 배우려고 하지 마라
 *원문 : [Don’t learn Machine Learning in 24 hours](https://towardsdatascience.com/dont-learn-machine-learning-in-24-hours-3ea3624f9881)*
-<p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*erhS3Y1ZtN3bcJAYgaLC_g.gif" /></p>
+<p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*erhS3Y1ZtN3bcJAYgaLC_g.gif"/>
+<br>
 *Source - [https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5](https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5)*
+</p>
 
 최근 피터 노빅의  "10년 동안 프로그래밍 독학하라"는 멋진 글을 발견했다.
 
@@ -13,9 +15,10 @@
 
 머신러닝, 딥러닝, AI를 둘러싼 전 영역의 분위기에도 이와 비슷한 문제가 있다. 광고, 블로그, 기사, 교육 과정이 도처에 넘쳐난다. 대부분 "코드 일곱 줄로 머신러닝 배우기", "열흘 만에 배우는 머신러닝" 같은 비슷한 제목을 달고 있다. 이런걸 접한 사람들은 Quora에 ["어떻게 하면 머신러닝을 한달 만에 배울수 있을까요?"](https://www.quora.com/How-should-I-plan-my-day-to-learn-machine-learning-in-30-days) 같은 질문을 올리게 된다.  짧게 답하자면 "한 달 안에 안된다. 누구도 못한다. 어떤 전문가도 그러지 못했다."
 
-<p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*U_mJ4Yq7pUctpFYwlx1u0g.jpeg" /></p>
-
+<p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*U_mJ4Yq7pUctpFYwlx1u0g.jpeg" />
+<br>
 *많이 보던 상황인가? [이 페이스북 페이지](https://www.facebook.com/npcompleteteens/photos/a.165757437252172.1073741828.165182533976329/324222291405685/?type=3&theater)에서 찾은 이미지다.*
+</p>
 
 우리가 [1만 시간의 법칙](https://www.businessinsider.in/Malcolm-Gladwell-Explains-What-Everyone-Gets-Wrong-About-His-Famous-10000-Hour-Rule/articleshow/35964144.cms)을 잠시 잊었다 하더라도, 머신러닝을 코드 일곱 줄로 배울 수는 없다.
 
@@ -23,10 +26,10 @@
 
 모델을 해석할 수 없으면 그냥 sklearn으로 파라미터를 조정해서 성능을 좀 향상시킨 다음 기분 좋게 퇴근하면 된다. 하지만 이게 진짜로 머신러닝을 아는 건가?
 
-<p align="center"><img src ="https://cdn-images-1.medium.com/max/1600/1*jy7DT6-R_xXvZKvz-_-n7g.jpeg" /></p>
-
+<p align="center"><img src ="https://cdn-images-1.medium.com/max/1600/1*jy7DT6-R_xXvZKvz-_-n7g.jpeg" />
+<br>
 *Source - [http://machinelearningjourney.blogspot.in/2012/03/machine-learning-and-memes.html](http://machinelearningjourney.blogspot.in/2012/03/machine-learning-and-memes.html)*
-
+</p>
 즉, 코드 일곱 줄로 끝내려고 하면 안 된다. 6개월, 1년 이상 시간을 들여야 한다. 이 기간의 중간쯤 되면 자신이 여기에 흥미가 있는지 아닌지 판단할 수 있게 될 것이다. 화려한 겉모습은 일단 잊어버리고, 깊이 있고 놀라운 연구의 세계로 빠져들어야 한다. [이 글](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)을 꼭 읽어보길 권한다. 초보자에게 가장 많은 도움이 되는 글이다. 수학이나 프로그래밍을 몰라도 된다. 이 글을 읽고 나면 이 분야에 익숙해지려면 알아야 하는, 머신러닝에 관해 생각하고 말하려면 알고 있어야 하는 개념들의 큰 그림을 그릴 수 있게 될 거다. 
 
 이 주제와 관련한 훌륭한 블로그들을 소개한다. 이 리스트엔 나의 개인 취향이 반영되어 있다.
@@ -45,8 +48,8 @@ Medium도 공부하는데 도움이 많이 된다. 나는 [이 페이지](https:
 
 [여기](http://norvig.com/21-days.html)에서 stellar AI의 연구원인 피터 노빅의 글을 읽을 수 있다. 반드시 읽어봐야 하는 글이다.
 
-<p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*aYFSCHBK6Nc1L1MGRrk1hw.jpeg" /></p>
-
+<p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*aYFSCHBK6Nc1L1MGRrk1hw.jpeg" />
+<br>
 *진지하게, 왜 안돼?*
-
+</p>
 [Yu Zhou](https://medium.com/@yuzhoux?source=post_page)에게 감사를 전한다.
