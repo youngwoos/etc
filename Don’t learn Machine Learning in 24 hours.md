@@ -1,5 +1,5 @@
 # 머신러닝 하루 만에 배우려고 하지 마라
-*원문 : [Don’t learn Machine Learning in 24 hours](https://towardsdatascience.com/dont-learn-machine-learning-in-24-hours-3ea3624f9881)*
+
 <p align="center"><img src ="https://cdn-images-1.medium.com/max/880/1*erhS3Y1ZtN3bcJAYgaLC_g.gif"/><br>
 <i>Source - <a href="https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5">https://medium.com/designer-hangout/machine-learning-and-ux-c28725b5f3a5</a></i></p>
 
@@ -50,3 +50,5 @@ Medium도 공부하는데 도움이 많이 된다. 나는 [이 페이지](https:
 <i>진지하게, 왜 안돼?</i></p>
 
 [Yu Zhou](https://medium.com/@yuzhoux?source=post_page)에게 감사를 전한다.
+
+*원문 : [Don’t learn Machine Learning in 24 hours](https://towardsdatascience.com/dont-learn-machine-learning-in-24-hours-3ea3624f9881)*
