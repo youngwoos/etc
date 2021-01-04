@@ -9,7 +9,7 @@ Quiz Part 1
 
 ------------------------------------------------------------------------
 
-[Link back to header 1](#header1)
+[Link back to header 1](#headin)
 
 
 #### Q1. `speech_park.txt`를 불러와 분석에 적합하게 전처리한 다음 띄어쓰기 기준으로 토큰화하세요.{#Q1}
@@ -139,4 +139,6 @@ ggplot(top20, aes(x = reorder(word, n), y = n)) +
 
 
 
-Header 1            {#header1}
+## Header 1<a name="headin"></a>
+
+
