@@ -1,5 +1,4 @@
-Quiz Part 1
-===========
+# Quiz Part 1
 
 #### `speech_park.txt`에는 박근혜 전 대통령의 대선 출마 선언문이 들어있습니다. `speech_park.txt`를 이용해 문제를 해결해 보세요.
 
