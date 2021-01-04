@@ -1,7 +1,4 @@
 -   [Quiz Part 1](#quiz-part-1)
-    -   [`speech_park.txt`에는 박근혜 전 대통령의 대선 출마 선언문이
-        들어있습니다. `speech_park.txt`를 이용해 문제를 해결해
-        보세요.](#speech_park.txt에는-박근혜-전-대통령의-대선-출마-선언문이-들어있습니다.-speech_park.txt를-이용해-문제를-해결해-보세요.)
     -   [Q1. `speech_park.txt`를 불러와 분석에 적합하게 전처리한 다음
         띄어쓰기 기준으로
         토큰화하세요.](#q1.-speech_park.txt를-불러와-분석에-적합하게-전처리한-다음-띄어쓰기-기준으로-토큰화하세요.)
